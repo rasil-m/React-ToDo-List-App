@@ -1,0 +1,25 @@
+.tasks
+{
+    width: 80%;
+    height: 100px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    color: #fff;
+    text-align: center;
+}
+.tasks div
+{
+    width: 80%;
+    height: 100px;
+}
+.tasks button
+{
+    outline: none;
+    border: none;
+    padding: 20px 30px;
+    background: #ff0000;
+    color: #fff;
+    height: auto;
+}

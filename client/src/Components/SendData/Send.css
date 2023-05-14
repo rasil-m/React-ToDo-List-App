@@ -1,0 +1,30 @@
+.Additem
+{
+    width: 80%;
+    padding: 50px 0;
+    margin: auto;
+
+}
+.Additem h1
+{
+    text-align: center;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.Additem form
+{
+    display: flex;
+    justify-content: center;
+}
+.Additem form input,.Additem form button
+{
+    border: none;
+    outline: none;
+    padding: 10px;
+}
+.Additem form button
+{
+    background:  rgb(2, 24, 71);
+    color: #fff;
+    cursor: pointer;
+}
